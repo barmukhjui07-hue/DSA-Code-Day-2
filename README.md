@@ -11,3 +11,7 @@ Daily tracking of DSA problems, C++ implementation, and core concepts.
 * Understanding unary vs binary operators in C++.
 * Tracking order of execution in expression evaluation.
 * Predicting state changes during variable mutation.
+
+~~ 💡 Key Takeaways:
+1. **Pre vs Post Operators:** `int b = ++a` increments `a` first then assigns to `b` (both become 11). `int b = a--` assigns current `a` to `b` first (b becomes 10), then decrements `a` (a becomes 9).
+2. **Integer Division & Modulo:** Integer division (`a / b`) truncates fractional components, while modulo (`a % b`) yields the remainder.
