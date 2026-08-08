@@ -7,4 +7,7 @@ Daily tracking of DSA problems, C++ implementation, and core concepts.
 2. *Pre-Increment (`++a`):* Increasing variable value before evaluating the assignment statement.
 3. *Post-Decrement (`a--`):* Assigning the current variable value before performing the decrement step.
 
-   
+~~ 🛠️ Skills Learnt:
+* Understanding unary vs binary operators in C++.
+* Tracking order of execution in expression evaluation.
+* Predicting state changes during variable mutation.
