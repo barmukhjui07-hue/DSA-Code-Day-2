@@ -1,2 +1,3 @@
-# DSA-Code-Day-2
-C++ Operators, Variables &amp; Increment/Decrement Mechanics
+~~ 🚀 Data Structures & Algorithms Showcase:
+Daily tracking of DSA problems, C++ implementation, and core concepts.
+
