@@ -15,3 +15,9 @@ Daily tracking of DSA problems, C++ implementation, and core concepts.
 ~~ 💡 Key Takeaways:
 1. **Pre vs Post Operators:** `int b = ++a` increments `a` first then assigns to `b` (both become 11). `int b = a--` assigns current `a` to `b` first (b becomes 10), then decrements `a` (a becomes 9).
 2. **Integer Division & Modulo:** Integer division (`a / b`) truncates fractional components, while modulo (`a % b`) yields the remainder.
+
+~~ ⚙️ How to Run:
+1. Open terminal in your code directory.
+2. Compile any file using `g++`:
+   ```bash
+   g++ Basics/Day2_a_Operators.cpp -o Operators
